@@ -50,7 +50,7 @@ body{
 	margin: 8px auto;
 	padding: 12px 0px 0px 0px;
 	text-indent: 25px;
-	width: 50%;
+	width: 850px;
 	height: 50px;
 	background: #333336;
 	border-radius: 22px;
@@ -59,10 +59,12 @@ body{
 
 .link-vk{
 	color: white;
+	text-decoration: none;
 }
 
 .link-discord{
-	color: white;
+	color: white;	
+	text-decoration: none;
 }
 
 .all-content{
