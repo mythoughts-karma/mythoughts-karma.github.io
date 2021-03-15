@@ -78,12 +78,12 @@ header h1{
 	font-size: 40px;
 }
 
-.day1-title{
+.title{
 	margin: 70px 0px 0px 0px;
 	font-size: 30px;
 }
 
-.day1-text{
+.text{
 	margin: 25px 0px 0px 0px;
 	font-size: 20px;
 	text-indent: 35px;
@@ -91,7 +91,22 @@ header h1{
 	font-style: italic;
 }
 
-.day1-text-p2{
+.text-p2{
+	margin: 15px 0px 0px 0px;
+	font-style: normal;
+}
+
+.text-p3{
+	margin: 15px 0px 0px 0px;
+	font-style: normal;
+}
+
+.text-p4{
+	margin: 15px 0px 0px 0px;
+	font-style: normal;
+}
+
+.text-p5{
 	margin: 15px 0px 0px 0px;
 	font-style: normal;
 }
@@ -111,33 +126,10 @@ header h1{
 	border: 3px solid white;
 }
 
-.day4-title{
-	margin: 70px 0px 0px 0px;
-	font-size: 30px;
-}
-
-.day4-text{
-	margin: 25px 0px 0px 0px;
-	font-size: 20px;
-	text-indent: 35px;
-	line-height: 25px;
-	font-style: italic;
-}
-
-
-.day4-text-p2{
-	margin: 15px 0px 0px 0px;
-	font-style: normal;
-}
-
-.day4-text-p3{
-	margin: 15px 0px 0px 0px;
-	font-style: normal;
-}
-
-.day4-text-p4{
-	margin: 15px 0px 0px 0px;
-	font-style: normal;
+.day5-image2{
+	margin: 20px 130px;
+	width: 450px;
+	border: 3px solid white;
 }
 
 .day4-text-p4-sad{
