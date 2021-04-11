@@ -71,6 +71,11 @@ section .container{
 	width: 775px;
 }
 
+section.dayxx .container{
+	padding: 25px;
+	background: #333336;
+}
+
 section.day11 .container{
 	padding: 25px;
 	background: #333336;
@@ -127,6 +132,11 @@ section .container .text{
 	font-style: normal;
 }
 
+.text-p6{
+	margin: 15px 0px 0px 0px;
+	font-style: normal;
+}
+
 .day1-text-Ksenix{
 	font-size: 22px;
 	font-style: italic;
@@ -145,6 +155,12 @@ section .container .text{
 .day5-image2{
 	margin: 20px 130px;
 	width: 450px;
+	border: 3px solid white;
+}
+
+.dayxx-dozhdik{
+	margin: 20px 225px;
+	width: 300px;
 	border: 3px solid white;
 }
 
